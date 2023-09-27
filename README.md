@@ -1,2 +1,11 @@
-# lunar-lander-rl
- Train an AI agent to land a lunar lander on the moon using Q-learning, TensorFlow, and OpenAI Gym. Explore RL principles in action.
+# Lunar Lander Reinforcement Learning
+
+![Lunar Lander](lunar_lander_image.jpg)
+
+🚀 Welcome to the Lunar Lander Reinforcement Learning Adventure! 🌕
+
+This repository houses the thrilling code that propels an AI agent on a celestial journey to master the art of landing a lunar lander safely on the moon's enigmatic surface.
+
+## The Lunar Challenge
+
+🌌 Imagine your AI agent as an intrepid lunar explorer. Its mission: to conquer the moon's rugged terrain, avoid treacherous craters, and make a perfect landing. The twist? It must learn from every landing attempt, continuously improving until it achieves lunar landing mastery!
